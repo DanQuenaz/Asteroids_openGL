@@ -1,3 +1,9 @@
+/*
+Autores:
+Alexandre S. Nogueira
+Dan Quenaz M. S. Pimentel
+*/
+
 #include <iostream>
 #include <thread>
 #include "environment.cpp"
