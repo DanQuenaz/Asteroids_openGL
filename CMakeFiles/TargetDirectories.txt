@@ -1,0 +1,3 @@
+/home/anchor/Asteroids/CMakeFiles/rebuild_cache.dir
+/home/anchor/Asteroids/CMakeFiles/edit_cache.dir
+/home/anchor/Asteroids/CMakeFiles/Asteroids.dir
