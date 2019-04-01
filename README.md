@@ -10,5 +10,5 @@ http://www.prinmath.com/csci5229/misc/install.html
 ## Execute   
 cmake .  
 make  
-./VehicleCount  
+./Asteroids 
 
